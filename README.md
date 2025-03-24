@@ -1,6 +1,6 @@
 # Word Filter - Console Application 
 
-This is a console application built using .NET 8, designed to process text using required filters. The application is designed with SOLID principles and extendable architecture. It uses xUnit for unit testing and Moq for mocking dependencies in tests.
+This is a console application built using .NET 8, designed to process text file using required filters. The application is designed with SOLID principles and extendable architecture. It uses xUnit for unit testing and Moq for mocking dependencies in tests.
 
 # Requirement : 
 Write a C# application with the associated unit tests that will be able to take multiple text filters and apply them
